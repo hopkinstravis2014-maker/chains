@@ -3440,7 +3440,7 @@
   "icon": "nom",
   "explorers": [{
     "name": "Nomina EVM and cross-chain Explorer",
-    "url": "https://omniscan.network",
+    "url": "https://nomscan.io",
     "standard": "EIP3091"
   }]
 }, {
@@ -32207,7 +32207,7 @@
 }, {
   "name": "Mezo",
   "chain": "Mezo",
-  "rpc": ["https://rpc_evm-mezo.imperator.co", "wss://ws_evm-mezo.imperator.co", "https://jsonrpc-mezo.boar.network", "wss://jsonrpcws-mezo.boar.network", "https://mainnet.mezo.public.validationcloud.io", "wss://mainnet.mezo.public.validationcloud.io", "https://rpc-internal.mezo.org", "wss://rpc-ws-internal.mezo.org"],
+  "rpc": ["https://rpc_evm-mezo.imperator.co", "wss://ws_evm-mezo.imperator.co", "https://rpc-http.mezo.boar.network", "wss://rpc-ws.mezo.boar.network", "https://mainnet.mezo.public.validationcloud.io", "wss://mainnet.mezo.public.validationcloud.io", "https://rpc-internal.mezo.org", "wss://rpc-ws-internal.mezo.org"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Bitcoin",
@@ -35651,6 +35651,58 @@
   "explorers": [{
     "name": "thinkiumscan",
     "url": "https://test103.thinkiumscan.net",
+    "standard": "EIP3091"
+  }]
+}, {
+  "name": "POTOS Testnet",
+  "chain": "POTOS",
+  "icon": "potos",
+  "rpc": ["https://rpc-testnet.potos.hk"],
+  "faucets": ["https://faucet-testnet.potos.hk"],
+  "nativeCurrency": {
+    "name": "POTOS Token",
+    "symbol": "POT",
+    "decimals": 18
+  },
+  "features": [{
+    "name": "EIP155"
+  }, {
+    "name": "EIP1559"
+  }],
+  "infoURL": "https://potos.hk",
+  "shortName": "potos-testnet",
+  "chainId": 60600,
+  "networkId": 60600,
+  "explorers": [{
+    "name": "POTOS Testnet explorer",
+    "url": "https://scan-testnet.potos.hk",
+    "icon": "blockscout",
+    "standard": "EIP3091"
+  }]
+}, {
+  "name": "POTOS Mainnet",
+  "chain": "POTOS",
+  "icon": "potos",
+  "rpc": ["https://rpc.potos.hk"],
+  "features": [{
+    "name": "EIP155"
+  }, {
+    "name": "EIP1559"
+  }],
+  "nativeCurrency": {
+    "name": "POTOS Token",
+    "symbol": "POT",
+    "decimals": 18
+  },
+  "faucets": [],
+  "infoURL": "https://potos.hk",
+  "shortName": "potos",
+  "chainId": 60603,
+  "networkId": 60603,
+  "explorers": [{
+    "name": "POTOS Mainnet explorer",
+    "url": "https://scan.potos.hk",
+    "icon": "blockscout",
     "standard": "EIP3091"
   }]
 }, {
