@@ -1761,7 +1761,7 @@
 }, {
   "name": "reactive",
   "icons": [{
-    "url": "ipfs://bafkreih2sitkbspgnboiwga7k4zwz22h4u3qqpswxdr3miqtdwuovw2cte",
+    "url": "ipfs://QmaBqYemL6VG5kDEMZqtJZhh6kLn3XqMyxkDpChkPttJ6B",
     "width": 320,
     "height": 320,
     "format": "png"
@@ -1983,14 +1983,6 @@
     "format": "png"
   }]
 }, {
-  "name": "saga",
-  "icons": [{
-    "url": "ipfs://bafkreieuaf4anwbg4s6ptuxszdn5e6q4eodbae2dmyglb4v2o7xbbxepte",
-    "width": 512,
-    "height": 512,
-    "format": "png"
-  }]
-}, {
   "name": "metachain",
   "icons": [{
     "url": "ipfs://QmUH2Ph2hW4upvevEAGCaSo7nd8nthqMx5RrHcrnNZ9Y3g",
@@ -2044,6 +2036,14 @@
     "url": "ipfs://QmPV6ASrQDEkEW3g3ni7p2rJMPeciRLpEpvrAc1QfzVkx9",
     "width": 640,
     "height": 640,
+    "format": "png"
+  }]
+}, {
+  "name": "arcnetwork",
+  "icons": [{
+    "url": "ipfs://bafybeiddgoql2bcngs3bcuxobz5hkjjbhvwxvqrdagqytdnfmmawnmfhta",
+    "width": 1000,
+    "height": 1000,
     "format": "png"
   }]
 }, {
@@ -2777,9 +2777,9 @@
 }, {
   "name": "xrplevm",
   "icons": [{
-    "url": "ipfs://QmXP4M9LvEfLotu5HfpMBcuxJEqpefaxhRxFPToBGfhNSo",
-    "width": 516,
-    "height": 516,
+    "url": "ipfs://QmS1qEsbRpi9UrjCM5JkmCDdgWf8CWEAyKvNKbkjms919P",
+    "width": 500,
+    "height": 500,
     "format": "png"
   }]
 }, {
@@ -3367,6 +3367,14 @@
     "format": "png"
   }]
 }, {
+  "name": "denergy",
+  "icons": [{
+    "url": "ipfs://QmdZMYDb12zN4ErNoSob7yotqqQBMobCDbhumMY3DV1kG1",
+    "width": 512,
+    "height": 503,
+    "format": "png"
+  }]
+}, {
   "name": "arthera",
   "icons": [{
     "url": "ipfs://QmYQp3e52KjkT4bYdAvB6ACEEpXs2D8DozsDitaADRY2Ak",
@@ -3429,6 +3437,14 @@
     "width": 500,
     "height": 500,
     "format": "png"
+  }]
+}, {
+  "name": "stable",
+  "icons": [{
+    "url": "ipfs://bafkreiegvgr6qwavexa5koda4wfqdqomn7h44niwufhgw4nkof5yugizvi",
+    "width": 256,
+    "height": 256,
+    "format": "svg"
   }]
 }, {
   "name": "river",
@@ -3837,6 +3853,14 @@
     "width": 250,
     "height": 249,
     "format": "jpg"
+  }]
+}, {
+  "name": "spld-testnet",
+  "icons": [{
+    "url": "ipfs://bafkreigdhkoqdntev2f4ixapfrcku74x4mjsgvebvlzdrjv5oadafrlpzm",
+    "width": 512,
+    "height": 512,
+    "format": "png"
   }]
 }, {
   "name": "miyou",
@@ -4711,6 +4735,14 @@
     "format": "png"
   }]
 }, {
+  "name": "ark",
+  "icons": [{
+    "url": "ipfs://bafkreia6szwv32h5g5nmdk6dusypjvgo5cjochtulrg3zfwqd2bwyctevi",
+    "width": 512,
+    "height": 512,
+    "format": "svg"
+  }]
+}, {
   "name": "otc",
   "icons": [{
     "url": "ipfs://QmfC9nTyEUPTXeqhDTpAcqHtLphHFyvZYj2tyoWiMu46H1",
@@ -5015,6 +5047,14 @@
     "format": "png"
   }]
 }, {
+  "name": "pruv",
+  "icons": [{
+    "url": "ipfs://QmSFDZ7UvHHr6BFfggAUNfibzKRHW7vaTHgoE326uUDgXj",
+    "width": 1219,
+    "height": 651,
+    "format": "png"
+  }]
+}, {
   "name": "areon",
   "icons": [{
     "url": "ipfs://bafkreihs2nrnizpcuzjmuu2yi7wrtwd7qlqje46qnil5bnntfbfkb2roea",
@@ -5101,6 +5141,14 @@
     "width": 72,
     "height": 72,
     "format": "svg"
+  }]
+}, {
+  "name": "redmansion",
+  "icons": [{
+    "url": "ipfs://Qmd49EoSchLo4LbHvdmAx6cFcL4gLgo7hzDyUjB1hPrTTP",
+    "width": 150,
+    "height": 150,
+    "format": "png"
   }]
 }, {
   "name": "mmt",
@@ -5252,6 +5300,14 @@
     "url": "ipfs://Qme5iDsQTDfLbyXS6iUEmvL4pWTPEiXc5kqFs7jjthqCWP",
     "width": 180,
     "height": 180,
+    "format": "png"
+  }]
+}, {
+  "name": "splendor",
+  "icons": [{
+    "url": "ipfs://bafkreigdhkoqdntev2f4ixapfrcku74x4mjsgvebvlzdrjv5oadafrlpzm",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
@@ -5602,6 +5658,14 @@
   "name": "core",
   "icons": [{
     "url": "ipfs://QmdUgiGaD6fGjhb9x1NvfccvEBBFq2YHSm9yb8FNhpwHkW",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "sagaevm",
+  "icons": [{
+    "url": "ipfs://bafkreieuaf4anwbg4s6ptuxszdn5e6q4eodbae2dmyglb4v2o7xbbxepte",
     "width": 512,
     "height": 512,
     "format": "png"
@@ -8311,6 +8375,14 @@
     "format": "png"
   }]
 }, {
+  "name": "billions",
+  "icons": [{
+    "url": "ipfs://bafkreihy2skjw4kedeokhsqlyipgy2gm63hfsxmenfyldejad5au4wdrjy",
+    "width": 200,
+    "height": 200,
+    "format": "png"
+  }]
+}, {
   "name": "aie",
   "icons": [{
     "url": "ipfs://bafkreihok46mhn5yf7b5jgmq7tiyw2fw76wklvj4frpc3gbswgfxzerhhm",
@@ -8796,6 +8868,14 @@
     "url": "ipfs://QmeDfLgA5heAAXsU8kf5J23Y8up4uHN27uRBEAJFPMJEu7",
     "width": 48,
     "height": 48,
+    "format": "png"
+  }]
+}, {
+  "name": "nexpace",
+  "icons": [{
+    "url": "ipfs://bafkreiacfidhalwauvrdvlgtn2zs3ijdvqh56audxwoljxuaoqn3vmq5vq",
+    "width": 256,
+    "height": 256,
     "format": "png"
   }]
 }, {
